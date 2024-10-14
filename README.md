@@ -1,6 +1,10 @@
-# Pokémon TCG [![Build Status][ci-badge]][ci]
+# Pokémon TCG Version Jensybio [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon TCG.
+This is a modified disassembly of Pokémon TCG.
+
+It is currently only a place where Jensybio tests out different things and document their journey of hacking the game.
+
+This is not a proper romhack experience that differ significantly from the original disassembly.
 
 It builds the following ROM:
 
